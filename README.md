@@ -1,4 +1,4 @@
-## 👋 Hello! Welcome to my Github profile.
+## 👋 Bem vindo ao meu perfil GitHub.
 
 <img src="https://i.postimg.cc/NjhJ65KD/mynameis.jpg" width="326" height="162"/>       <img src="https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif" width="326" height="162"/>
 
@@ -7,8 +7,8 @@
 
 <div>
 <a href="https://github.com/rengaaV">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rengaaV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rengaaV&layout=compact&langs_count=7&theme=dracula"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rengaaV&layout=compact&langs_count=7&theme=dracula"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=rengaaV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <div>
