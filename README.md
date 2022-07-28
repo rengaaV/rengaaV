@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👋 Hello! Welcome to my Github profile.
 
-<!--
-**rengaaV/rengaaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.postimg.cc/NjhJ65KD/mynameis.jpg" width="326" height="162"/>       <img src="https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif" width="326" height="162"/>
 
-Here are some ideas to get you started:
+### 🛠  Tecnologias e ferramentas.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/rengaaV">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rengaaV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rengaaV&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div>
+<a href="https://www.instagram.com/vagnerbortolami/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "vagnerpereirabortolami@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vagner-bortolami-892b061bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
